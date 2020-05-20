@@ -18,7 +18,7 @@ if sub == "Y":
    print ("\033[1;33mTerima Kasih :)")
    os.system('clear')
 elif sub == "T":                                                                                                           
-print ("\033[1;92mSilahkan follow terlebih dahulu...")
+
      os.system("xdg-open https://www.instagram.com/viwviaw/")
 else:
   print ("\033[1;97mInput tidak ada\033[1;91m!!!")
